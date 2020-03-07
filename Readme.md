@@ -8,75 +8,77 @@ This list will contain shortcuts I am trying to get used to
 
 ## Text
 
-**⌘⇧⌥V** *Paste Unformated:* Past raw unformated text
+**⌘⇧⌥V**  *Paste Unformated:* Past raw unformated text
 
-**⌘⇧⌥V** *Paste and Match Style:* Apply the style of the surrounding content to the item pasted within that content.
+**⌘⇧⌥V**  *Paste and Match Style:* Apply the style of the surrounding content to the item pasted within that content.
 
-**⌘⌥C** *Copy Style:* Copy the formatting settings of the selected item to the Clipboard.
+**⌘⌥C**  *Copy Style:* Copy the formatting settings of the selected item to the Clipboard.
 
-**⌘⌥V** *Paste Style:* Apply the copied style to the selected item.
+**⌘⌥V**  *Paste Style:* Apply the copied style to the selected item.
 
 
 
 ## Window Management
 
-**⌘⌥M** *Minimize all windows for application*
+**⌘⌥M**  *Minimize all windows for application*
 
-**⌘`** *Switch between windows for application*
+**⌘`**  *Switch between windows for application*
 
-**⌃→** *Switch to Space right*
+**⌃→**  *Switch to Space right*
 
-**⌃↑** *Mission Control*
+**⌃↑**  *Mission Control*
 
-**⌃↓** *View minimzed Windows*
+**⌃↓**  *View minimzed Windows*
 
-**F11** *Show Desktop*
+**F11**  *Show Desktop*
 
 
 
 ## Utilities
 
-**⌘,** *open Preferences*
+**⌘,**  *open Preferences*
+
+**⇧⌃⌽**  *Put displays to sleep* 
 
 
 ## Finder
 
-**⌘↓** *Go down a level*
+**⌘↓**  *Go down a level*
 
-**⌘↑** *Go up a level*
+**⌘↑**  *Go up a level*
 
-**⌘⇧D** *open Desktop directory*
+**⌘⇧D**  *open Desktop directory*
 
-**⌘⇧H** *open Home directory*
+**⌘⇧H**  *open Home directory*
 
-**⌘⇧O** *open Documents directory*
+**⌘⇧O**  *open Documents directory*
 
-**⌘⇧A** *open Application directory*
+**⌘⇧A**  *open Application directory*
 
-**⌘⇧N** *create new directory*
+**⌘⇧N**  *create new directory*
 
-**⌘S then ⌘⇧D** *save to Desktop*, works with Documents, Applications, Home, etc. too
+**⌘S then ⌘⇧D**  *save to Desktop*, works with Documents, Applications, Home, etc. too
 
 
 
 
 # Text Navigation Shortcuts
 
-**⌘←** *Beginning of Line*
+**⌘←**  *Beginning of Line*
 
-**⌘→** *End of Line*
+**⌘→**  *End of Line*
 
-**⌘↑** *Beginning of File*
+**⌘↑**  *Beginning of File*
 
-**⌘↓** *End of File*
+**⌘↓**  *End of File*
 
-**⌥←** *Beginning of Word*
+**⌥←**  *Beginning of Word*
 
-**⌥→** *End of Word*
+**⌥→**  *End of Word*
 
-**⌥↑** *Beginning of Paragraph*
+**⌥↑**  *Beginning of Paragraph*
 
-**⌥↓** *End of Paragraph*
+**⌥↓**  *End of Paragraph*
 
 
 
@@ -110,3 +112,5 @@ This list will contain shortcuts I am trying to get used to
 ⎋ Escape(Esc)
 
 ⏏ Eject
+
+⌽ Power
