@@ -5,10 +5,11 @@ This list will contain shortcuts I am trying to get used to
 
 # Most Used
 
-**⌘⇧T**  *Restore most recently closed Tab*
+**⌘⇧T**  *Restore most recently closed Tab*  
+**⌘⌥V**  *Paste and Cut* Removes previously copied File or Folder
 
 
-## Text
+### Text
 
 **⌘⇧⌥V**  *Paste Unformated:* Past raw unformated text  
 **⌘⇧⌥V**  *Paste and Match Style:* Apply the style of the surrounding content to the item pasted within that content.  
@@ -19,7 +20,7 @@ This list will contain shortcuts I am trying to get used to
 
 
 
-## Window Management
+### Window Management
 
 **⌘⌥M**  *Minimize all windows for application*  
 **⌘`**  *Switch between windows for application*  
@@ -29,21 +30,7 @@ This list will contain shortcuts I am trying to get used to
 **F11**  *Show Desktop*  
 
 
-
-## Utilities
-
-**⌘TAB Q**  *Quit App* hold ⌘ key and hover over desired app using TAB before pressing Q
-**⌘,**  *open Preferences of current App*  
-**⇧⌃⌽**  *Put displays to sleep* 
-**⌘;**  *Find misspelled words in the document*  
-**⌘⌥D**  *Toggle the Dock*
-**⌘Brightness Up** Turn Target Display Mode on or off.  
-**⌘Brightness Down** Turn display mirroring on or off when your Mac is connected to more than one display.  
-
-
-## Finder
-
-**⌘⌥V**  *Paste and Cut* Removes previously copied File or Folder  
+# Finder
 
 **⌘↓**  *Go down a level*  
 **⌘↑**  *Go up a level*  
@@ -61,7 +48,6 @@ This list will contain shortcuts I am trying to get used to
 
 **⌘N**  *New Finder Window*
 **⌘E**  *Eject the selected volume*  
-
 
 
 
@@ -122,7 +108,20 @@ This list will contain shortcuts I am trying to get used to
 
 
 
-# Boot Commands
+# Utilities
+
+**⌘TAB Q**  *Quit App* hold ⌘ key and hover over desired app using TAB before pressing Q
+**⌘,**  *open Preferences of current App*  
+**⇧⌃⌽**  *Put displays to sleep* 
+**⌘;**  *Find misspelled words in the document*  
+**⌘⌥D**  *Toggle the Dock*
+**⌘Brightness Up** Turn Target Display Mode on or off.  
+**⌘Brightness Down** Turn display mirroring on or off when your Mac is connected to more than one display.  
+
+
+
+
+## Boot Commands
 
 **D**  *Boot to Apple Diagnostics* used to test Hardware and diagnose problems  
 **N**  *Boot from a network Server*  
