@@ -79,21 +79,10 @@ This list will contain shortcuts I am trying to get used to
 
 ## Text Selections
 
-**⇧↑**  Extend text selection to the nearest character at the same horizontal location on the line above.  
-**⇧↓**  Extend text selection to the nearest character at the same horizontal location on the line below.  
-**⇧←**  Extend text selection one character to the left.  
-**⇧→**  Extend text selection one character to the right.  
-
-**⌘⇧↑**  Select the text between the insertion point and the beginning of the document.  
-**⌘⇧↓**  Select the text between the insertion point and the end of the document.  
-**⌘⇧←**  Select the text between the insertion point and the beginning of the current line.  
-**⌘⇧→**  Select the text between the insertion point and the end of the current line.  
-
-**⇧⌥↑**  Extend text selection to the beginning of the current paragraph, then to the beginning of the following paragraph if pressed again.  
-**⇧⌥↓**  Extend text selection to the end of the current paragraph, then to the end of the following paragraph if pressed again.  
-**⇧⌥←**  Extend text selection to the beginning of the current word, then to the beginning of the following word if pressed again.  
-**⇧⌥→**  Extend text selection to the end of the current word, then to the end of the following word if pressed again.  
-
+**⌘⇧↑**  *Select text until beginning of document*  
+**⌘⇧↓**  *Select text until end of document*   
+**⌘⇧←**  *Select text until end of line*  
+**⌘⇧→**  *Select text until beginning of line*  
 
 
 
@@ -104,8 +93,8 @@ This list will contain shortcuts I am trying to get used to
 **⇧⌃⌽**  *Put displays to sleep* 
 **⌘;**  *Find misspelled words in the document*  
 **⌘⌥D**  *Toggle the Dock*
-**⌘Brightness Up** Turn Target Display Mode on or off.  
-**⌘Brightness Down** Turn display mirroring on or off when your Mac is connected to more than one display.  
+**⌘Brightness Up**  Turn Target Display Mode on or off.  
+**⌘Brightness Down**  Turn display mirroring on or off when your Mac is connected to more than one display.  
 
 
 
