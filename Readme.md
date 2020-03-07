@@ -79,33 +79,34 @@ This list will contain shortcuts I am trying to get used to
 **⌥↓** *End of Paragraph*
 
 
-### Key list 
-⇧Shift
 
-←Left
+# Key Identifier list 
+⇧ Shift
 
-↑Up
+← Left
 
-→Right
+↑ Up
 
-↓Down
+→ Right
 
-↩Return
+↓ Down
 
-⇞PageUp
+↩ Return
 
-⇟PageDown
+⇞ PageUp
 
-⌃Control
+⇟ PageDown
 
-⌤Enter
+⌃ Control
 
-⌘Command
+⌤ Enter
 
-⌥Option(Alt)
+⌘ Command
 
-⌫Delete
+⌥ Option(Alt)
 
-⎋Escape(Esc)
+⌫ Delete
 
-⏏Eject
+⎋ Escape(Esc)
+
+⏏ Eject
