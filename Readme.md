@@ -68,24 +68,13 @@ This list will contain shortcuts I am trying to get used to
 
 ## CTRL Versions
 
-**⌃A**  Move to the beginning of the line or paragraph  
-**⌃E**  Move to the end of a line or paragraph  
-**⌃F**  Move one character forward  
-**⌃B**  Move one character backward  
-**⌃L**  Center the cursor or selection in the visible area  
-**⌃P**  Move up one line  
-**⌃N**  Move down one line  
+**⌃A**  *Move to beginning of the line or paragraph*  
+**⌃E**  *Move to end of a line or paragraph*   
+**⌃L**  *Center the cursor or selection in the visible area*  
 
-
-**⌃O**  Insert a new line after the insertion point  
-**⌃T**  Swap the character behind the insertion point with the character in front of the insertion point  
-**⌃H**  Delete the character to the left of the insertion point. Or use **⌫**  
-**⌃D**  Delete the character to the right of the insertion point. Or use **Fn-⌫**  
-**⌃K**  Delete the text between the insertion point and the end of the line or paragraph  
-
-
-**⌥⌫**  Delete the word to the left of the insertion point  
-**⌘⌫**  Select Delete or Don't Save in a dialog that contains a Delete or Don't Save button  
+**⌃T**  *Swap characters around cursor*  
+**⌃K**  *Delete text until end of the line or paragraph*  
+**⌥⌫**  *Delete word to the left*  
 
 
 ## Text Selections
