@@ -28,7 +28,7 @@ This list will contain shortcuts I am trying to get used to
 
 ## Utilities
 
-**⌘,**  *open Preferences*  
+**⌘,**  *open Preferences of current App*  
 **⇧⌃⌽**  *Put displays to sleep* 
 **⌘;**  *Find misspelled words in the document*  
 **⌘⌥D**  *Toggle the Dock*
@@ -37,6 +37,8 @@ This list will contain shortcuts I am trying to get used to
 
 
 ## Finder
+
+**⌘⌥V**  *Paste and Cut* Removes previously copied File or Folder  
 
 **⌘↓**  *Go down a level*  
 **⌘↑**  *Go up a level*  
@@ -111,6 +113,22 @@ This list will contain shortcuts I am trying to get used to
 **⇧⌥↓**  Extend text selection to the end of the current paragraph, then to the end of the following paragraph if pressed again.  
 **⇧⌥←**  Extend text selection to the beginning of the current word, then to the beginning of the following word if pressed again.  
 **⇧⌥→**  Extend text selection to the end of the current word, then to the end of the following word if pressed again.  
+
+
+
+
+# Boot Commands
+
+**D**  *Boot to Apple Diagnostics* used to test Hardware and diagnose problems  
+**N**  *Boot from a network Server*  
+**T**  *Boot in Target Disk Mode*  
+**⇧**  *Boot in Safe Mode* boot only with necessary kexts, no third-party drivers loaded  
+**⌥**  *Boot to Startup Manager* pick other startup disks if available
+**⌘R**  *Boot in Recovery Mode*  
+**⌘S**  *Boot Single-User Mode* boot only to root-shell  
+**⌘B**  *Boot Verbose Mode*  
+**⌘⌥PR**  *Reset NVRAM or PRAM*  
+
 
 
 # Key Identifier list 
