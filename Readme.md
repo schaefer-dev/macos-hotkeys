@@ -88,7 +88,7 @@ This list will contain shortcuts I am trying to get used to
 
 # Utilities
 
-**⌘TAB Q**  *Quit App* hold ⌘ key and hover over desired app using TAB before pressing Q
+**⌘TAB Q**  *Quit App* - hold ⌘ select using TAB before pressing Q
 **⌘,**  *open Preferences of current App*  
 **⇧⌃⌽**  *Put displays to sleep* 
 **⌘;**  *Find misspelled words in the document*  
