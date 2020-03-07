@@ -5,6 +5,8 @@ This list will contain shortcuts I am trying to get used to
 
 # Most Used
 
+**⌘⇧T**  *Restore most recently closed Tab*
+
 
 ## Text
 
@@ -12,6 +14,8 @@ This list will contain shortcuts I am trying to get used to
 **⌘⇧⌥V**  *Paste and Match Style:* Apply the style of the surrounding content to the item pasted within that content.  
 **⌘⌥C**  *Copy Style:* Copy the formatting settings of the selected item to the Clipboard.  
 **⌘⌥V**  *Paste Style:* Apply the copied style to the selected item.  
+
+**⌃⌘␣**  *open Emoticon Menu*  
 
 
 
@@ -28,6 +32,7 @@ This list will contain shortcuts I am trying to get used to
 
 ## Utilities
 
+**⌘TAB Q**  *Quit App* hold ⌘ key and hover over desired app using TAB before pressing Q
 **⌘,**  *open Preferences of current App*  
 **⇧⌃⌽**  *Put displays to sleep* 
 **⌘;**  *Find misspelled words in the document*  
@@ -138,12 +143,12 @@ This list will contain shortcuts I am trying to get used to
 → Right  
 ↓ Down  
 ↩ Return  
+␣ Spacebar
 ⇞ PageUp  
 ⇟ PageDown  
-⌃ Control  
-⌤ Enter  
 ⌘ Command  
 ⌥ Option(Alt)  
+⌃ Control  
 ⌫ Delete  
 ⎋ Escape(Esc)  
 ⏏ Eject  
